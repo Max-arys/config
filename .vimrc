@@ -128,3 +128,7 @@ endif
 
 set guifont=Monaco:h18
 colorscheme OceanicNext
+inoremap jj <ESC>
+set keymap=russian-jcukenwin
+set iminsert=0
+set imsearch=0
